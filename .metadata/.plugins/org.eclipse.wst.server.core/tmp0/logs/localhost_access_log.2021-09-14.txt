@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Sep/2021:13:41:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Sep/2021:13:41:04 +0530] "GET /Autorefresh/ServletPageTesting HTTP/1.1" 200 295
+127.0.0.1 - - [14/Sep/2021:14:39:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Sep/2021:14:39:45 +0530] "GET /authorization/index1.html HTTP/1.1" 200 889
+0:0:0:0:0:0:0:1 - - [14/Sep/2021:14:39:50 +0530] "GET /authorization/UserAuthorization?username=asd&password=asd HTTP/1.1" 200 35
